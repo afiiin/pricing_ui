@@ -1,7 +1,7 @@
 # Pricing UI Page
 
 ## Overview
-<a href="https://github.com/muhmmadafin/pricing_ui" style="text-align:center;">
+<a href="https://github.com/muhmmadafin/pricing_ui" align="center">
     <img src="Pricing.png" alt="Logo" width="187.5" height="406">
 </a>
 
