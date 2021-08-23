@@ -1,8 +1,8 @@
 # Pricing UI Page
 
 ## Overview
-<a href="https://github.com/muhmmadafin/pricing_ui">
-    <img src="Pricing.png" alt="Logo" width="375" height="812">
+<a href="https://github.com/muhmmadafin/pricing_ui" style="text-align:center;">
+    <img src="Pricing.png" alt="Logo" width="187.5" height="406">
 </a>
 
 A new Flutter UI project with basic State Management
