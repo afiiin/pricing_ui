@@ -1,13 +1,14 @@
-# Pricing UI Page
-
-## Overview
+<h3 align="center">Pricing UI</h3>
+ 
 <p align="center">
     <a href="https://github.com/muhmmadafin/pricing_ui">
         <img src="Pricing.png" alt="Logo" width="187.5" height="406">
     </a>
 </p>
 
-A new Flutter UI project with basic State Management
+<p align="center">
+    A new Flutter UI project with basic State Management
+</p>
 
 ### Getting Started: Flutter
 
